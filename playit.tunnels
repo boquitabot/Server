@@ -82,7 +82,7 @@
           "agent_id": "444bd7ca-c8d7-4faa-9ab9-dc50a14871d5",
           "agent_name": "from-key-baaa",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 3759
         },
         "type": "agent"
       },
